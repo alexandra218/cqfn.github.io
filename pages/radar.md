@@ -7,6 +7,13 @@ permalink: /radar.html
 
 [/home](/)
 
+## [Large Language Models (LLM) recently got new attention, especially after OpenAI opened access to ChatGPT3](https://openai.com/blog/chatgpt/)
+Such LLM models do not only solve tasks related to natural languages but programming languages too. For example, such model is able to explain what  piece of source-code do, may find defects, and propose how to improve this code. How may this technology change the future of software engineering?
+Code Search. Programmers regularly search for examples of code snippets on the internet. The LLM model integrated with the IDE may significantly improve the effectiveness and efficiency of code search.
+Code Review. The LLM model may detect and explain flaws in the code. It can be used as part of the automatic code review process.
+No code / Low code. It has been shown that LLM models may be  part of systems that do program synthesis to generate programs, given natural language specifications. It can be used in low/no code systems to help non-professional programmers construct more complex .
+We believe that LMM is a game changer. It has the potential to change how we develop software and improve existing approaches. 
+
 ## [Java 17 released](https://www.oracle.com/news/announcement/oracle-releases-java-17-2021-09-14/)
 14-September-2021: Java 17 is available. Moreover, the [new license is free](https://blogs.oracle.com/java/post/free-java-license), and you can [download JDK](https://www.oracle.com/java/technologies/downloads/) without registration. Java 17 contains several [new features](https://www.oracle.com/java/technologies/javase/17all-relnotes.html), including new syntax constructs and platform updates. However, we believe users will migrate to the new version mainly because the virtual machine  [is faster](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html) than previous versions, enabling you to run an application 8.66% faster than using Java 11 and 2.41% faster than using Java 16, without any effort and payments. It may also affect other languages that are compiled into Java source code or JVM bytecode. We expect that due to the combined advantages of the new version, the migration to it will be pretty massive and fast.
 
